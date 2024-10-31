@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donna Kassandra Resume</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" type="text/css" href="c:\Users\DELL\Desktop\Donna\Donna_CV_style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="left_side">
+            <div class="profileText">
+                <div class="imgBx">
+                    <img src="reymond.jpg">
+                </div>
+                <h2>Donna Kassandra Sales<br><span>CAREGIVER | ADMINISTRATOR</span></h2>
+            </div>
+            
+            <div class="contactInfo">
+                <h3 class="title">Contact Info</h3>
+                <ul>
+                    <li>
+                        <span class="icon"><i class="fa fa-phone" aria-hidden="true"></i></span>
+                        <span class="text">+971 554013029</span>
+                    </li>
+                    <li>
+                        <span class="icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
+                        <span class="text">donnakassandra6@gmail.com</span>
+                    </li>
+                    <li>
+                        <span class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></span>
+                        <span class="text">Dubai, United Arab Emirates</span>
+                    </li> 
+                </ul>
+            </div>
+            <div class="contactInfo education">
+                <h3 class="title">Education</h3>
+                <ul>
+                    <li>
+                    <h5>On progress, expected completion 2025."</h5>
+                    <h4>Bachelor of Science in Administration Major in
+                        Marketing Management</h4>
+                    <h4>Liceo de Cagayan University - Cagayan De Oro Philippines</h4>
+                    </li>
+                    <li>
+                        <h5>December 2023-May 2024</h5>
+                        <h4>Development Academy for Training and Science Center - Dubai , UAE</h4>
+                    </li>
+                    <li>
+                        <h5>June 2006 - April 2011</h5>
+                        <h4>Good Shepherd College Inc</h4>
+                        <h4>Wao, Lanao del Sur , Philippines</h4>
+                    </li>  
+                </ul>
+            </div>
+            <div class="contactInfo language">
+                <h3 class="title">Languages</h3>
+                <ul>
+                    <li>
+                        <span class="text">English</span>
+                        <span class="percent"><div style="width: 85%;"></div></span>
+                    </li>
+                    <li>
+                        <span class="text">Arabic</span>
+                        <span class="percent"><div style="width: 48%;"></div></span>
+                    </li>
+                    <li>
+                        <span class="text">Filipino</span>
+                        <span class="percent"><div style="width: 90%;"></div></span>
+                    </li>
+                </ul>
+            </div>
+            <div class="contactInfo trainings">
+                <h3 class="title">Certifications</h3>
+                <ul>
+                    <li>
+                        <h4>Professional Training Certificate in Business
+                            Fundamental & Entrepreneurship</4>
+                    </li>
+                    <li>
+                        <h4>Professional Training Certificate in Human
+                            Capital Management</h4>
+                    </li>
+                    <li>
+                        <h4>Professional Training Certificate in Planning
+                            and Corporate Performance Management</h4>
+                    </li>
+                    <li>
+                        <h4>Certificate of Caregiving</h4>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="right_side">
+            <div class="about">
+                <h2 class="title2">Profile</h2>
+                <p>
+                    Dedicated caregiver with over 6 years of experience providing compassionate,
+                    personalized care to elderly clients. Skilled in personal care assistance, medication
+                    administration, and mobility support, with a strong commitment to enhancing
+                    clients' quality of life through attentive and empathetic service. Additionally
+                    experienced as a sales clerk and cashier, bringing excellent customer service skills,
+                    attention to detail, and efficiency in handling transactions and inventory
+                    management. Reliable, adaptable, and driven to make a positive impact through
+                    quality care and customer interaction.                    
+                </p>
+            </div>
+            <div class="about">
+                <h2 class="title2">Work Experience</h2>
+                <section>
+                    <fieldset>
+                        <legend class="work"><h3>Abroad</h3></legend>
+                        <div class="box">   
+                            <div class="year_company">
+                                <h5>Aug.2022 - Sept.2024</h5>
+                                <h4>Abdulrahman Doieh Household</h4>
+                                <h3>Dubai, United Arab Emirates</h3>
+                            </div>
+                            <div class="text">
+                                <h4>Caregiver</h4>
+                                <p>
+                                 â¢ Provide compassionate care to elderly clients, including assistance with
+                                 personal hygiene, meal preparation, and mobility support.<br> 
+                                 â¢ Monitor vital signs, administer medication, and communicate any health
+                                 concerns to family members and medical professionals.<br> 
+                                 â¢ Assist client in performing exercises recommended by physical therapist to
+                                 improve mobility and reduce discomfort.<br> 
+                                 â¢ Develop strong, trusting relationship with clients, offering emotional support and
+                                 companionship to improve their well-being.<br> 
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <div class="box">   
+                            <div class="year_company">
+                                <h5>Sept. 2017 - Jan.2021</h5>
+                                <h4>Huda Al Qarshubi Household</h4>
+                                <h3>Muscat, Sultanate of Oman</h3>
+                            </div>
+                            <div class="text">
+                                <h4>Caregiver</h4>
+                                <p>
+                                 â¢ Cared for senior with Alzheimerâs disease, assisting with daily routine such as
+                                 bathing, dressing and feeding.<br> 
+                                 â¢ Engaged in mental and physical activities to help stimulate memory and improve
+                                 cognitive function.<br>
+                                 â¢ Coordinate medical appointments, handled transportation, and managed
+                                 medication schedules.<br> 
+                                 â¢ Performed housekeeping duties, including cleaning, laundry , and grocery
+                                 shopping to ensure a safe and clean environment.
+                                </p>
+                            </div>
+                        </div>
+                    </fieldset>
+                </section>
+                <br>
+                <section>
+                    <fieldset>
+                        <legend class="work"><h3>Philippines</h3></legend>
+                        <div class="box">   
+                            <div class="year_company">
+                                    <h5>Oct.2011 - Apr.2012</h5>
+                                    <h4>A & A Hardware</h4>
+                                    <h3>Wao Lanao del sur, Philippines</h3>
+                            </div>
+                            <div class="text">
+                                <h4>Retail Associate-Cashier</h4>
+                                <p>
+                                 â¢ Maintain a balanced cash drawer, ensuring that it accurately reflects the amount of money at the start and end of your shift.<br> 
+                                 â¢ Trained new retail team members and customers-focus strategies, maintaining
+                                    high team standards Accurately process payments for hardware products via
+                                    cash, credit/debit cards, checks, and other payment methods.<br> 
+                                 â¢ Keep up-to-date on hardware store pricing, sales, and discounts to avoid billing
+                                    mistakes.<br> 
+                                 â¢ Explain warranties or guarantees on products such as tools, equipment, and
+                                    other items as necessary.<br> 
+                                 â¢ Assist customers with special orders or bulk purchases of construction
+                                    materials, tools, or large equipment. Vigilant about suspicious activities, and report potential security
+                                    risks to the manager. <br> 
+                                 â¢ Assist with additional store tasks as needed, such as helping with stocking, tidying up
+                                    aisles, or organizing promotional displays.
+                                </p>
+                            </div>
+                        </div>
+                       
+                        <div class="box">   
+                            <div class="year_company">
+                                    <h5>Feb.2014 - May 2015</h5>
+                                    <h4>Keff Harvey General Merchandise</h4>
+                                    <h3>Cagayan de Oro City, Philippine</h3>
+                            </div>
+                            <div class="text">
+                                <h4>Sales Clerk</h4>
+                                <p>
+                                 â¢ Resolve customer issues and handle complaints in a professional manner, referring more complex issues to management when necessary.<br> 
+                                 â¢ Answer customer inquiries and provide information on products, returns and
+                                 store policies.<br> 
+                                 â¢ Help maintain overall store tidiness, including cleaning up spills, straightening
+                                 racks, and organizing fitting rooms.<br> 
+                                 â¢ Ensure compliance with safety and security procedures while on the sales floor.<br> 
+                                 â¢ Communicate with coworkers and supervisors regarding inventory needs,
+                                 customer requests, or any issues that arise during your shift.<br> 
+                                </p>
+                            </div>
+                        </div>
+                    </fieldset>
+                </section>
+                <br>
